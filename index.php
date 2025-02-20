@@ -5,32 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>portifolio</title>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
+    <link rel="stylesheet" href="css/estilos.css">
 
-        }
-
-        body {
-            background-image: url('imagens/logo.png');
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: 100%;
-            background-attachment: fixed;
-        }
-
-        p {
-            /* border: 1px solid red; */
-            border-width: 1px;
-            border-style: solid;
-            border-color: blue;
-        }
-
-        h1 {
-            background-color: yellow;
-        }
-    </style>
+ 
 </head>
 <body>
 
@@ -48,11 +25,12 @@
 
             <ul>
 
-            <li>home</li>
-            <li>serviços</li>
-            <li>produtos</li>
-            <li>sobre</li>
-            <li>contatos</li>
+            <li>Home</li>
+            <li>Serviços</li>
+            <li>Produtos</li>
+            <li>Portifolio</li>
+            <li>Sobre</li>
+            <li>Contatos</li>
 
 
             </ul>
