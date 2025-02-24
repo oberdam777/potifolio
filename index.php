@@ -11,26 +11,26 @@
 </head>
 <body>
 
-<div class="interface">
+<div id="interface">
 
     <header class="cabecalho">
 
         <nav class="menu">
 
             <div class="logo">
-                <img src="imagens/logo.png" alt="LOGO" width= "150"/>
+                <img src="imagens/logo.png" alt="LOGO" />
 
 
             </div>
 
             <ul>
 
-            <li>Home</li>
-            <li>Serviços</li>
-            <li>Produtos</li>
-            <li>Portifolio</li>
-            <li>Sobre</li>
-            <li>Contatos</li>
+            <li> <a href="#">Home</a></li>
+            <li> <a href="#">Serviços</a></li>
+            <li> <a href="#">Produtos</a></li>
+            <li> <a href="#">Portifolio</a></li>
+            <li> <a href="#">Sobre</a></li>
+            <li> <a href="#">Contatos</a></li>
 
 
             </ul>
