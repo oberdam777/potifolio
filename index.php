@@ -39,11 +39,13 @@
 
         <div class="titles">
 
-            <h1 class="titulo">Entregando serviços de qualidade</h1>
-            <h1 class="subtitulo">Soluções em TI</h1>
+            <div class="container-titles">
 
-            <p class="paragrafo">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci inventore illo accusamus eveniet natus quos labore soluta dignissimos fugiat, aut velit quo aliquam nobis dicta alias rem a quia. Molestiae.</p>
+                <h1 class="titulo">Entregando serviços de qualidade</h1>
+                <h1 class="subtitulo">Soluções em TI</h1>
+                <p class="paragrafo">Lorem ipsum dolor sit amet     consectetur, adipisicing elit. </p>
 
+            </div>  
         </div>
 
         <div class="socialIcons">
